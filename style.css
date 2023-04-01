@@ -1,0 +1,39 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
+    /* .firstPart{
+    
+    } */
+    body{padding: 50px;}
+    .firstPart-1{
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+    
+    }
+    .secondPart-1{
+        list-style: none;
+        display: flex;
+        gap: 1rem;
+    
+    }
+    .sixPart{
+        list-style: none;
+    
+    }
+    #eng{
+        width: 100%;
+        background-color: black;
+        border-radius: 10px;
+        border: 2px solid black;
+        height: 10px;
+    }
+    .hr{
+        border: 2px solid red
+        
+        
+    }
